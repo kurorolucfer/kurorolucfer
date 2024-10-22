@@ -6,6 +6,4 @@
 🖥ainda e cedo, mas jaja eu termino meu curso de Dev.📱
 
 
-<code>
-<img height= "20"src= "[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLg0dqEZcVK9nDOIiHlCCEpILVzmAUQHLHg&s)">
-</code>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
