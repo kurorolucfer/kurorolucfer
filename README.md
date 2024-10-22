@@ -6,4 +6,4 @@
 🖥ainda e cedo, mas jaja eu termino meu curso de Dev.📱
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurorolucferhazra&show_icons=true&theme=radical)
