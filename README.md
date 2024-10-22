@@ -3,7 +3,9 @@
 👨Me chamo Wilson junior, 34 anos
 
 🚔Olá ,atualmente eu atuo como Segurança Privada👮‍♂️;
+
 ✍Estou estudando para Transicionar de Carreira🤏;
+
 🖥ainda e cedo, mas jaja eu termino meu curso de Dev📱;
 
 
